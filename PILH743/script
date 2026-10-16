@@ -1,0 +1,11 @@
+config load "C:\Users\simil\STM32CubeIDE\workspace_2.1.1\PILH743\PILH743.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\simil\STM32Cube\Repository\STM32Cube_FW_H7_V1.9.1"
+
+config save C:\Users\simil\STM32CubeIDE\workspace_2.1.1\PILH743\PILH743.ioc
+
+
+exit wait
